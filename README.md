@@ -1,7 +1,7 @@
 # IFSC
 
 
-# 💻 IFSC — Técnico em Informática para Internet
+# 💻 IFSC — Técnico em Informática para Internet ***
 
 ![Status](https://img.shields.io/badge/status-em%20andamento-brightgreen)
 ![IFSC](https://img.shields.io/badge/IFSC-C%C3%A2mpus%20Florian%C3%B3polis-green)
